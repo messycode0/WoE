@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1709243958 source:c:\users\jacob\codef\test\cantongametest\main.cpp
+	<iostream>
+	<vector>
+	"parser.h"
+	"slowtype.h"
+	"choice.h"
+
+1709135944 c:\users\jacob\codef\test\cantongametest\parser.h
+	<vector>
+
+1709145004 source:c:\users\jacob\codef\test\cantongametest\parser.cpp
+	<vector>
+	<iostream>
+	<fstream>
+	<windows.h>
+	"parser.h"
+
+1709135863 c:\users\jacob\codef\test\cantongametest\slowtype.h
+
+1709135544 source:c:\users\jacob\codef\test\cantongametest\slowtype.cpp
+	<iostream>
+	<windows.h>
+	"slowtype.h"
+
+1709156322 source:c:\users\jacob\codef\test\cantongametest\choice.cpp
+	<iostream>
+	<vector>
+	<conio.h>
+	"choice.h"
+
+1709145836 c:\users\jacob\codef\test\cantongametest\choice.h
+
